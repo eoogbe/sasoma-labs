@@ -1,0 +1,32 @@
+body {
+  background-color: #e7e7e7; }
+
+.navbar {
+  border-radius: 0;
+  border-bottom-width: 4px;
+  min-height: 115px;
+  margin-bottom: 0; }
+  .navbar h1 {
+    margin: 0;
+    padding: 0 15px; }
+
+.navbar-default {
+  background-color: #fff; }
+
+.navbar-nav {
+  padding-top: 60px; }
+
+main {
+  padding-top: 20px;
+  background-color: #fff; }
+
+.jumbotron {
+  font-size: 63px; }
+
+footer {
+  padding-top: 10px; }
+  footer span {
+    padding-right: 5px;
+    border-right: 1px solid #333; }
+    footer span:last-child {
+      border-right: 0; }
