@@ -4,7 +4,8 @@ require "sass"
 ignore ".git/"
 ignore ".gitmodules"
 ignore "README.md"
-ignore "styles/.sass-cache/"
+ignore(/\.sass-cache\//)
+ignore(/.*\.xcf/)
 
 before "index.html.haml" do
   @page_title = "Home"
