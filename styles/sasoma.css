@@ -41,8 +41,8 @@ footer {
 
 .carousel-caption {
   background-color: rgba(51, 51, 51, 0.5);
-  width: 300px;
-  left: 60%; }
+  width: 220px;
+  left: 15%; }
 
 .big-img {
   display: none; }
@@ -53,7 +53,8 @@ footer {
     overflow: hidden; } }
 .ribbon {
   color: #fff;
-  padding: 3px 7px; }
+  padding: 3px 7px;
+  height: 65px; }
 
 .ribbon-purple {
   background-color: #a300a3;
