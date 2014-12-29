@@ -1,3 +1,3 @@
-Sasoma Labs
+SaSoma Labs
 ===========
-Website for Sasoma Laboratories and Research Solutions. Coming soon to the Denver area.
+Website for SaSoma LLC, Laboratories & Research Solutions. Coming soon to the Denver area.
