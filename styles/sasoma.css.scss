@@ -58,9 +58,13 @@ footer {
 }
 
 .carousel-caption {
-    background-color: rgba(51,51,51,0.3);
+    background-color: rgba(51,51,51,0.4);
     width: 220px;
     left: 15%;
+    bottom: 10px;
+    h3 {
+        margin-top: 0;
+    }
 }
 
 .big-img {
